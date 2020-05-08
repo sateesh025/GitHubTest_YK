@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="175754" started-at="2020-05-07T15:19:53Z" finished-at="2020-05-07T15:22:49Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="175754" started-at="2020-05-07T15:19:53Z" finished-at="2020-05-07T15:22:49Z">
+      <class name="com.pages.HomePage">
+        <test-method status="PASS" signature="home()[pri:0, instance:com.pages.HomePage@3cbbc1e0]" name="home" duration-ms="0" started-at="2020-05-07T20:52:49Z" finished-at="2020-05-07T20:52:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- home -->
+      </class> <!-- com.pages.HomePage -->
+      <class name="com.Test.LoginTest">
+        <test-method status="PASS" signature="test01()[pri:0, instance:com.Test.LoginTest@366e2eef]" name="test01" duration-ms="0" started-at="2020-05-07T20:52:49Z" finished-at="2020-05-07T20:52:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test01 -->
+      </class> <!-- com.Test.LoginTest -->
+      <class name="com.Utils.Utilclass">
+        <test-method status="PASS" signature="utils()[pri:0, instance:com.Utils.Utilclass@6df97b55]" name="utils" duration-ms="0" started-at="2020-05-07T20:52:49Z" finished-at="2020-05-07T20:52:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- utils -->
+      </class> <!-- com.Utils.Utilclass -->
+      <class name="com.Test.Loginpage">
+        <test-method status="PASS" signature="createAccount()[pri:0, instance:com.Test.Loginpage@6537cf78]" name="createAccount" duration-ms="175692" started-at="2020-05-07T20:49:53Z" finished-at="2020-05-07T20:52:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAccount -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.Test.Loginpage@6537cf78]" name="login" duration-ms="0" started-at="2020-05-07T20:52:49Z" finished-at="2020-05-07T20:52:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- com.Test.Loginpage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
